@@ -1,5 +1,4 @@
-# 100-days-of-python
-## 100 Days of Code: The Python Bootcamp
+# 100 Days of Code: The Python Bootcamp
 
 ### Day 1:
 
