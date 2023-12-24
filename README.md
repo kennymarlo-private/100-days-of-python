@@ -9,3 +9,8 @@
 
     Goal: Data Types, Numbers, Operations, Type Conversion, f-Strings
     Project: Tip Calculator
+
+### Day 3
+    
+    Goal: Conditional Statement, Logical Operators, Code Blocks and Scope
+    Project: Treasure Island
