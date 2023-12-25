@@ -14,3 +14,8 @@
     
     Goal: Conditional Statement, Logical Operators, Code Blocks and Scope
     Project: Treasure Island
+
+### Day 4
+
+    Goal: Randomisation and Python Lists
+    Project: Rock, Paper and Scissors Game
