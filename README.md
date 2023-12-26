@@ -19,3 +19,8 @@
 
     Goal: Randomisation and Python Lists
     Project: Rock, Paper and Scissors Game
+
+### Day 5
+
+    Goal: For Loops, Range and Code Blocks
+    Project: Password Generator
