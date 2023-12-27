@@ -24,3 +24,8 @@
 
     Goal: For Loops, Range and Code Blocks
     Project: Password Generator
+
+### Day 7
+    
+    Goal: For & While Loops, If / Else, Lists, Strings, Range, Modules
+    Project: Hangman
