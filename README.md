@@ -29,3 +29,14 @@
     
     Goal: For & While Loops, If / Else, Lists, Strings, Range, Modules
     Project: Hangman
+
+### Day 8
+
+    Goal: Functions with Inputs
+    Project: Caesar Cipher
+
+### Day 9
+
+    Goal: Dictionaries and Nesting
+    Project: Secret Auction Program
+
